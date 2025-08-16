@@ -69,12 +69,3 @@ buscador-cursos/
 ├── vendor/              # Dependências do Composer
 └── README.md           # Este arquivo
 ```
-
-## 🛠️ Funcionalidades
-
-- ✅ Busca automática de cursos na categoria PHP
-- ✅ Extração de dados via web scraping
-- ✅ Listagem simples dos cursos encontrados
-- ✅ Tratamento de requisições HTTP
-
-e este projeto te ajudou, não esqueça de dar uma estrela!
