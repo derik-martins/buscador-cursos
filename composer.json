@@ -1,0 +1,16 @@
+{
+    "name": "cviniciussdias/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Derik Martins",
+            "email": "derik@monge.com.br"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "symfony/dom-crawler": "^6.4",
+        "symfony/css-selector": "^6.4"
+    }
+}
